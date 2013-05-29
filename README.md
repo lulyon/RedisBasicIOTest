@@ -1,4 +1,4 @@
 RedisBasicIOTest
 ================
 
-Redis基本读写测试
+Redis basic io test.
